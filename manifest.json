@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Tasker",
+    "description": "A simple task manager Chrome extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "128": "logo.png"
+      }
+    },
+    "icons":{
+      "128":"logo.png"
+    },
+    "permissions": [
+      "storage"
+    ]
+  }
+  
